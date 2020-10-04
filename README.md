@@ -1,9 +1,11 @@
 
 ## Getting Started
 
-First, run:
+First, run - 
+```
 npm install 
-Then run a development server
+```
+Then run a development server - 
 ```bash
 npm run dev
 # or
